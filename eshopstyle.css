@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logoName{
+    color: rgb(88, 179, 202);
+}
+
+#shopsection, #shopsection1,#shopsection2,#shopsection3,#shopsection4,#shopsection5{
+    padding-top: 40px;
+}
+
+.morebtn{
+    margin: 30px 0 20px 43rem;
+
+}
+.ABCD{
+    text-align: center;
+}
+
+.eshopimgpart1{
+    padding-top: 2%;
+    width: 35%;
+    text-align: center;
+    
+}
+
+.eshopimgpart2{
+    padding-top: 8%;
+
+}
+
+.eshopimgpart3{
+    padding-top: 6%;
+    width: 70%;
+
+}
+
+.eshopimgpart4{
+    width: 66%;
+}
+
+.eshopimgpart5{
+    width: 66%;
+}
+
+.eshopimgpart6{
+    width: 65%;
+}
+
+.eshopimgpart7{
+    width: 99%;
+    padding-top: 5%;
+}
+
+.eshopimgpart8{
+    width: 44%;
+}
+
+.eshopimgpart9{
+    width:
+    45% ;
+}
+
+.eshopimgpart10{
+    width:40% ;
+}
+
+.eshopimgpart11{
+    padding-top: 30px;
+    padding-bottom: 45px;
+    width:90% ;
+}
+
+.eshopimgpart12{
+    padding-top: 35px;
+    width: 60%;
+    padding-bottom: 10px;
+}
+
+.eshopimgpart13{
+    padding-top: 20px;
+    width: 60%;
+    padding-bottom: 10px;
+}
+
+
+#aboutBlackCurrent .eventHeading,.abc {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.eventHeading>h1,.abc>h1 {
+    font-family: 'Caveat', cursive !important ;
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    padding: 40px 40px 0px 40px;
+    position: relative;
+
+}
+
+
+.eventHeading>h1:after {
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    height: 2px;
+    width: 100%;
+    content: "";
+    bottom: -30px;
+    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0), rgb(165, 165, 165), rgba(0, 0, 0, 0)) !important;
+}
+
+
+
+
+
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+#foot{
+
+    background-color: rgb(236, 177, 99);
+}
+
+#foot footer {
+    display: flex;
+
+}
+
+#foot #part1 {
+    width: 33%;
+    /* background-color: rgba(127, 255, 212, 0.904); */
+}
+
+#foot #part1 img {
+    width: 20%;
+}
+
+#foot #part1 {
+    padding: 15px 20px 20px 20px;
+    text-align: left;
+}
+
+#foot #credits p {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    color: #000;
+}
+
+#foot #part2 h1{
+        
+    color: #000 !important;
+    font-weight: 400;
+    }
+#foot #part1 a,
+#foot #part2 a,
+#credits a {
+    text-decoration: none;
+    outline: none;
+
+    color: #000;
+}
+
+#foot #part2 div:nth-child(1) a:hover {
+    color: rgb(73, 73, 73);
+
+}
+
+#foot #part2 {
+
+    padding-top: 50px;
+    width: 33%;
+}
+
+#foot #part2 h1 {
+
+    font-size: 1.5rem;
+    text-align: left;
+    margin-bottom: 20px;
+
+    color: #000;
+}
+
+
+
+#foot #part1 p {
+    padding-left: 35px;
+    text-align: left;
+    font-size: 1.05rem;
+    color: #000;
+}
+
+#foot #part1 p:hover,
+#credits a:hover {
+    cursor: pointer;
+    color: rgb(73, 73, 73);
+}
+
+#foot #part2 p {
+    line-height: 2;
+    color: #000;
+
+}
+
+#foot #part2 i:hover {
+    color: rgba(73,73,73);
+}
+
+#foot #part2>div i {
+    margin-right: 15px;
+}
+
+#foot #part3 {
+    color: #000;
+    padding-top: 40px;
+    width: 34%;
+    text-align: center;
+
+}
+
+#foot #part3 i {
+    margin: auto;
+}
+
+#foot #part3 h1 {
+    margin-bottom: 20px;
+    width: 250px;
+    text-align: left;
+    color: #000 !important;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+#foot #part1,
+#foot #part2 {
+    text-align: left !important;
+}
+
+
+#foot #part3 {
+    color: #000;
+    padding-top: 40px;
+    width: 34%;
+    text-align: center;
+
+}
+
+#foot #part3 i {
+    margin: auto;
+}
+
+#foot #part3 h1 {
+    margin-bottom: 20px;
+    width: 250px;
+    text-align: left;
+    color: #000 !important;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
